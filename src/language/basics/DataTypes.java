@@ -3,6 +3,9 @@ package language.basics;
 public class DataTypes {
 
 	public static void main(String[] args) {
+		
+		System.out.println("DATA TYPES");
+		
 		// 1. Temperature of a city in degrees Celsius: 25.5
 		float temperature = 25.5f;
 		System.out.println("1.  Temperature of the city in degree celcius: "+temperature);
